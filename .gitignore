@@ -1,0 +1,5 @@
+master/ubuntu-xenial-16.04-cloudimg-console.log
+worker/ubuntu-xenial-16.04-cloudimg-console.log
+
+master/.vagrant
+worker/.vagrant
